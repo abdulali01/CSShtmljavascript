@@ -1,0 +1,33 @@
+h1 {
+    color: #0170FF;
+  }
+  
+  a {
+    color: #ff0101;
+  }
+  
+  li {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-left: 5px;
+    border-left-color: #005cfc;
+    background-color: #f1f1f1;
+    
+    
+  }
+  
+  .content {
+    padding: 20px;
+    margin: 10px;
+    text: italic;
+    background-color: #424EDC;
+    text: #ffffff;
+  }
+  
+  .active {
+  }
+  
+  .footer {
+  }
